@@ -1,6 +1,6 @@
 "use strict"  // This helps us not to make mistakes
 
-// Into to the variable
+// Intro to the variable
 
 // variables can store some information
 // We can use that information later

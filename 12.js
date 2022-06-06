@@ -1,4 +1,3 @@
-// Bolean and Comparison Operators
 
 // booleans
 // true, false
