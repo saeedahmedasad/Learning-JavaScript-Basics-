@@ -6,14 +6,14 @@
 
 // how to create objects
 
-const person = {
-  name: "Saeed",
-  age: 22,
-  email: "saeedahmed5769644@gmail.com",
-  hobbies: ["saeed", "is", "Good"],
-};
+// const person = {
+//   name: "Saeed",
+//   age: 22,
+//   email: "saeedahmed5769644@gmail.com",
+//   hobbies: ["saeed", "is", "Good"],
+// };
 
-console.log(person)
+// console.log(person)
 // how to access data from objects
 
 // console.log(Array.isArray(person.hobbies));
@@ -22,6 +22,7 @@ console.log(person)
 // person.gender = "male"
 // console.log(person.gender)
 // console.log(person)
+
 
 
  
