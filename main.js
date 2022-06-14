@@ -62,7 +62,7 @@
 // myname = "Ahmad"; //Don't use let again
 // console.log(myname);
 
-//block scope vs function scope (learn these topics)
+// block scope vs function scope (learn these topics)
 
 // Declare Constants
 
@@ -77,8 +77,8 @@
 // 1  2  3  4  5
 // console.log(string[1]);
 
-//String Length
-//string.length
+// String Length
+// string.length
 
 // console.log(string.length);
 
@@ -907,3 +907,19 @@
 // const myFunc = function () {
 //   console.log("are you sure about the interes");
 // };
+
+// function inside functions
+
+function myFunc() {
+  function myFunc2() {
+    console.log("Inside myFunc2");
+  }
+  function myFunc3() {
+    console.log("Inside myFunc3");
+  }
+
+  myFunc2();
+  myFunc3();
+}
+
+myFunc();
